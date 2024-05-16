@@ -1,3 +1,9 @@
+
+# DISCLAIMER: 
+# I merely update this package so it's compatible with Flutter 3.19+ since the original author no longer maintain this package. The original author is aloisdeniel.com
+
+
+
 <p align="center">
   <img src="https://github.com/aloisdeniel/flutter_device_preview/raw/master/logo.png" alt="Device Preview for Flutter" />
 </p>
