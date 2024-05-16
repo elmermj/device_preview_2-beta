@@ -2,6 +2,8 @@
 # DISCLAIMER: 
 # I merely update this package so it's compatible with Flutter 3.19+ since the original author no longer maintains this package. The original author is aloisdeniel.com
 
+# This update has not been tested extensively. Feel free to improve it to your liking.
+
 
 
 <p align="center">
