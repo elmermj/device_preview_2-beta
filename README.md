@@ -1,6 +1,6 @@
 
 # DISCLAIMER: 
-# I merely update this package so it's compatible with Flutter 3.19+ since the original author no longer maintain this package. The original author is aloisdeniel.com
+# I merely update this package so it's compatible with Flutter 3.19+ since the original author no longer maintains this package. The original author is aloisdeniel.com
 
 
 
